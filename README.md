@@ -8,7 +8,7 @@ The current project aims to classify cancer tumors as either malignant (spreadin
 ### Dataset Description
 The dataset was composed of 569 observations, 30 input variables and one target variable. Out of the 569 cancer tumors, 357 (63%) were labeled as benign tumors and 212 (37%) as malignant tumors.
 
-## Repository Contents
+### Repository Contents
 This repository contains the following files:
 Filename | Content
 --- | ---
@@ -18,8 +18,13 @@ pickle_model.pkl | This file contains the winning model trained and ready to be 
 requirements.txt | This file contains all the project dependencies (libraries) needed for the current project to run
 
 
-## Python Notebooks Contents
+### Python Notebooks Contents
 Below, we give an overview of the contents of the two Python notebooks:
+
+
+~~~
+### :arrow_right: Assessment.ipynb
+~~~
 
 ---
 ### :arrow_right: Assessment.ipynb
