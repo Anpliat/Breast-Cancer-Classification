@@ -22,9 +22,9 @@ Below, we give an overview of the contents of the two notebooks:
 :arrow_right: Assessment.ipynb
 
 🠊 **Dataset & Dependencies:**
-•	Import packages & data
-•	Dataset dimensions
-•	Data types per attribute
+* Import packages & data
+* Dataset dimensions
+* Data types per attribute
 
 
 
