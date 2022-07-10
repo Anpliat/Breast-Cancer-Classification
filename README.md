@@ -27,10 +27,10 @@ Below, we give an overview of the contents of the two Python notebooks:
 ### :arrow_right: Assessment.ipynb
 ---
 > 
-🠊 **Dataset & Dependencies**
- * Import packages & data
- * Dataset dimensions
- * Data types per attribute
+* **Dataset & Dependencies**
+  * Import packages & data
+  * Dataset dimensions
+  * Data types per attribute
 
 🠊 **Exploratory Analysis**
  * Statistical summary per attribute
