@@ -20,9 +20,12 @@ requirements.txt | This file contains all the project dependencies (libraries) n
 Below, we give an overview of the contents of the two notebooks:
 
 
-Filename
+:arrow_right: Assessment.ipynb
 --- |
-Assessment.ipynb
+🠊 **Dataset & Dependencies**
+ * Import packages & data
+ * Dataset dimensions
+ * Data types per attribute
 
 
 :arrow_right: Assessment.ipynb
