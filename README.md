@@ -13,7 +13,7 @@ This repository contains the following files:
 Filename | Content
 --- | ---
 Assessment.ipynb | This notebook contains the methodology for classifying breast cancer tumors using supervised learning techniques
-Neural_Networks.ipynb | This notebook contains the methodology for classifying breast cancer tumors using supervised learning techniques
+Neural_Networks.ipynb | This notebook contains the methodology for classifying breast cancer tumors using a Neural Network architecture
 pickle_model.pkl | This file contains the winning model trained and ready to be used
 requirements.txt | This file contains all the project dependencies (libraries) needed for the current project to run
 
