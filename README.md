@@ -21,7 +21,7 @@ Below, we give an overview of the contents of the two notebooks:
 
 
 ---
-:arrow_right: Assessment.ipynb
+## :arrow_right: Assessment.ipynb
 ---
 
 🠊 **Dataset & Dependencies**
@@ -59,7 +59,7 @@ Below, we give an overview of the contents of the two notebooks:
 🠊 **Discussion**
 
 ---
-:arrow_right: Neural_Networks.ipynb
+### :arrow_right: Neural_Networks.ipynb
 ---
   * Import packages & data
   * Removal of highly correlated features
