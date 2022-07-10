@@ -17,7 +17,8 @@ Neural_Networks.ipynb | This notebook contains the methodology for classifying b
 pickle_model.pkl | This file contains the winning model trained and ready to be used
 requirements.txt | This file contains all the project dependencies (libraries) needed for the current project to run
 
-Below, we give an overview of the contents of the two notebooks:
+
+Below, we give an overview of the contents of the two Python notebooks:
 
 
 ---
