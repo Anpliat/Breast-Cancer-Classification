@@ -22,7 +22,7 @@ requirements.txt | This file contains all the project dependencies (libraries) n
 Below, we give an overview of the contents of the two Python notebooks:
 
 
-### :arrow_right: Assessment.ipynb |
+### :arrow_right: Assessment.ipynb
 ---
 * **Dataset & Dependencies**
   * Import packages & data
@@ -58,7 +58,7 @@ Below, we give an overview of the contents of the two Python notebooks:
 
 * **Discussion**
 
----
+
 ### :arrow_right: Neural_Networks.ipynb
 ---
   * Import packages & data
