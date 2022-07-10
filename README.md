@@ -59,4 +59,7 @@ Below, we give an overview of the contents of the two notebooks:
 
 
 :arrow_right: Neural_Networks.ipynb
-
+•	Import packages & data
+•	Removal of highly correlated features
+•	Data Splitting
+•	Build and evaluate an Artificial Neural Network (ANN) model
