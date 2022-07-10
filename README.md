@@ -12,7 +12,7 @@ The dataset was composed of 569 observations, 30 input variables and one target 
 This repository contains the following files:
 Filename | Content
 --- | ---
-Assessment.ipynb | This notebook contains the methodology for classifying breast cancer tumors using supervised learning techniques
+Main_Code.ipynb | This notebook contains the methodology for classifying breast cancer tumors using supervised learning techniques
 Neural_Networks.ipynb | This notebook contains the methodology for classifying breast cancer tumors using a Neural Network architecture
 pickle_model.pkl | This file contains the winning model trained and ready to be used
 requirements.txt | This file contains all the project dependencies (libraries) needed for the current project to run
@@ -22,7 +22,7 @@ requirements.txt | This file contains all the project dependencies (libraries) n
 Below, we give an overview of the contents of the two Python notebooks:
 
 
-### :arrow_right: Assessment.ipynb
+### :arrow_right: Main_Code.ipynb
 ---
 * **Dataset & Dependencies**
   * Import packages & data
