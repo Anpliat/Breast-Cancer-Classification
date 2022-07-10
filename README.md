@@ -22,9 +22,9 @@ requirements.txt | This file contains all the project dependencies (libraries) n
 Below, we give an overview of the contents of the two Python notebooks:
 
 
-~~~
+***
 ### :arrow_right: Assessment.ipynb
-~~~
+***
 
 ---
 ### :arrow_right: Assessment.ipynb
