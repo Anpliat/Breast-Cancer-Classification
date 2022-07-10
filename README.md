@@ -20,14 +20,7 @@ requirements.txt | This file contains all the project dependencies (libraries) n
 Below, we give an overview of the contents of the two notebooks:
 
 
-:arrow_right: Assessment.ipynb
---- |
-🠊 **Dataset & Dependencies**
- * Import packages & data
- * Dataset dimensions
- * Data types per attribute
-
-
+---
 :arrow_right: Assessment.ipynb
 
 🠊 **Dataset & Dependencies**
@@ -63,7 +56,7 @@ Below, we give an overview of the contents of the two notebooks:
  * Archive the winning model for future use
 
 🠊 **Discussion**
-
+---
 
 :arrow_right: Neural_Networks.ipynb
   * Import packages & data
