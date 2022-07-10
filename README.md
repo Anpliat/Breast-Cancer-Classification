@@ -22,38 +22,36 @@ Below, we give an overview of the contents of the two notebooks:
 :arrow_right: Assessment.ipynb
 
 🠊 **Dataset & Dependencies**
-* Import packages & data
-* Dataset dimensions
-* Data types per attribute
-
+ * Import packages & data
+ * Dataset dimensions
+ * Data types per attribute
 
 🠊 **Exploratory Analysis**
-* Statistical summary per attribute
-* Class Distribution
-* Univariate Analysis (Bar plots & density plots)
-* Multivariate Analysis (Correlation analysis)
-* Extra Visualizations (Mean radius & mean texture)
+ * Statistical summary per attribute
+ * Class Distribution
+ * Univariate Analysis (Bar plots & density plots)
+ * Multivariate Analysis (Correlation analysis)
+ * Extra Visualizations (Mean radius & mean texture)
 
 🠊 **Data Preparation**
-* Check the existence of missing values
-* Check the existence of duplicate rows
-* Removal of highly correlated features
+ * Check the existence of missing values
+ * Check the existence of duplicate rows
+ * Removal of highly correlated features
 
 🠊 **Feature Engineering**
 
 🠊 **Methodology**
-* Data Splitting
-* Algorithm Selection
-* Feature Scaling
-* Model Building
-* Model Evaluation
-
+ * Data Splitting
+ * Algorithm Selection
+ * Feature Scaling
+ * Model Building
+ * Model Evaluation
 
 🠊 **Model Finalization**
-* Select the winning algorithm
-* Evaluation of the winning algorithm on the validation set
-* Train the winning algorithm over the entire dataset
-* Archive the winning model for future use
+ * Select the winning algorithm
+ * Evaluation of the winning algorithm on the validation set
+ * Train the winning algorithm over the entire dataset
+ * Archive the winning model for future use
 
 🠊 **Discussion**
 
