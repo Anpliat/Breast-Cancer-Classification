@@ -15,3 +15,9 @@ Assessment.ipynb | This notebook contains the methodology for classifying breast
 Neural_Networks.ipynb | This notebook contains the methodology for classifying breast cancer tumors using supervised learning techniques
 pickle_model.pkl | This file contains the winning model trained and ready to be used
 requirements.txt | This file contains all the project dependencies (libraries) needed for the current project to run
+
+Below, we give an overview of the contents of the two notebooks:
+:arrow_right: Assessment.ipynb
+
+:arrow_right: Neural_Networks.ipynb
+
