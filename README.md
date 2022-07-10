@@ -32,34 +32,34 @@ Below, we give an overview of the contents of the two Python notebooks:
   * Dataset dimensions
   * Data types per attribute
 
-🠊 **Exploratory Analysis**
+* **Exploratory Analysis**
  * Statistical summary per attribute
  * Class Distribution
  * Univariate Analysis (Bar plots & density plots)
  * Multivariate Analysis (Correlation analysis)
  * Extra Visualizations (Mean radius & mean texture)
 
-🠊 **Data Preparation**
+* **Data Preparation**
  * Check the existence of missing values
  * Check the existence of duplicate rows
  * Removal of highly correlated features
 
-🠊 **Feature Engineering**
+* **Feature Engineering**
 
-🠊 **Methodology**
+* **Methodology**
  * Data Splitting
  * Algorithm Selection
  * Feature Scaling
  * Model Building
  * Model Evaluation
 
-🠊 **Model Finalization**
+* **Model Finalization**
  * Select the winning algorithm
  * Evaluation of the winning algorithm on the validation set
  * Train the winning algorithm over the entire dataset
  * Archive the winning model for future use
 
-🠊 **Discussion**
+* **Discussion**
 
 ---
 ### :arrow_right: Neural_Networks.ipynb
