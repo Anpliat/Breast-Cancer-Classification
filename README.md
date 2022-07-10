@@ -22,6 +22,7 @@ Below, we give an overview of the contents of the two notebooks:
 
 ---
 :arrow_right: Assessment.ipynb
+---
 
 🠊 **Dataset & Dependencies**
  * Import packages & data
@@ -56,9 +57,10 @@ Below, we give an overview of the contents of the two notebooks:
  * Archive the winning model for future use
 
 🠊 **Discussion**
----
 
+---
 :arrow_right: Neural_Networks.ipynb
+---
   * Import packages & data
   * Removal of highly correlated features
   * Data Splitting
