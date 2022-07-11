@@ -3,7 +3,7 @@
 ### Scope
 Breast cancer is a type of cancer that occurs when some cells in the breast grow excessively. This type of cancer causes the greatest number of cancer-related deaths among women. There are different types of breast cancer based on the occurrence of the tumor. A tumor is a cluster of abnormal cells. 
 
-The current project aims to classify cancer tumors as either malignant (spreading) or benign (non-spreading) using machine learning models with the help of breast cancer data.
+The current project aims to classify cancer tumors as either malignant (spreading) or benign (non-spreading) using machine learning models with the help of breast cancer data (using Python 3.8.3).
 
 ### Dataset Description
 The dataset was composed of 569 observations, 30 input variables and one target variable. Out of the 569 cancer tumors, 357 (63%) were labeled as benign tumors and 212 (37%) as malignant tumors.
